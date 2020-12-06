@@ -11,11 +11,13 @@ A simple search engine which is based on the frequency of the key words in the t
 --> Jave File: SearchEngine.java - Driver Code along with functions.<br/>
 
 **Concepts Used:**<br/>
-1) Sorting (Merge Sort)
-2) Ternary Search Trie
-3) Hash Maps
-4) Text Processing (JSoup, String Functions)
-5) Memory Management (Caching)
+1) Regular Expression
+2) Text Processing (JSoup, String Functions)
+3) Sorting (Merge Sort)
+4) Hash Maps
+5) Ternary Search Trie
+6) Memory Management (Caching)
+
 
 **Flow of Execution of the Search Engine:**<br/>
 1) Use of Python web crawler to crawl the web and recursively retreive around 3000 URLs.<br/>
